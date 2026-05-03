@@ -37,4 +37,4 @@ A modern and responsive Ecommerce web application built using React and Vite.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/fahmeetha2007-code/ecommerce-app.git
+git clone https://github.com/user-name/ecommerce-app.git
